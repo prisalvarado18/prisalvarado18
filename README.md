@@ -16,7 +16,7 @@ const pris = {
   tools: [Node, React, Jest, Docker, MongoDB],
   languages: [Español, English, Français],
   techCommunities: {
-                        ambassador: "Microsoft Learn Student Ambassadors",
+                        developerAdvocate: "Microsoft Learn Student Ambassadors",
                         founder: "Ñañas Coding: Programming and Robotics Fundamentals School",
                         leader: "UTA Microsoft Community"
                       },
