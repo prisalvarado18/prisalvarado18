@@ -13,11 +13,11 @@
 const pris = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Java],
-  tools: [Node, React, Jest, Docker],
+  tools: [Node, React, Jest, Docker, MongoDB],
   languages: [Español, English, Français],
   techCommunities: {
                         ambassador: "Microsoft Learn Student Ambassadors",
-                        founder: "Ñañas Coding: Programming and Robotics School",
+                        founder: "Ñañas Coding: Programming and Robotics Fundamentals School",
                         leader: "UTA Microsoft Community"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
