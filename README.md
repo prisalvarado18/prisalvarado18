@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h2> Hi, I'm Priscila Alvarado! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Multilingual in Business and International Affairs at <a href="http://www.unb.br](https://www.puce.edu.ec">Pontifical Catholic University of Ecuador</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Front-end Developer student at <a href="https://www.laboratoria.la/">Laboratoria</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
