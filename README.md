@@ -14,6 +14,7 @@ const pris = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Java],
   tools: [Node, React, Jest, Docker],
+  languages: [Español, English, Français],
   techCommunities: {
                         ambassador: "Microsoft Learn Student Ambassadors",
                         founder: "Ñañas Coding: Programming and Robotics School",
