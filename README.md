@@ -18,7 +18,7 @@ const pris = {
   techCommunities: {
                         developerAdvocate: "Microsoft Learn Student Ambassadors",
                         founder: "Ñañas Coding: Programming and Robotics Fundamentals School",
-                        leader: "UTA Microsoft Community"
+                        coleader: "UTA Microsoft Community"
                       },
  challenge: "I am doing the Microsoft Cloud Skills Challenge"
 }
