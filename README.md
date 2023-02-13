@@ -14,7 +14,6 @@ const pris = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS, Python, Java],
   tools: [Node, React, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
                         ambassador: "Microsoft Learn Student Ambassadors",
                         founder: "Ñañas Coding: Programming and Robotics School",
