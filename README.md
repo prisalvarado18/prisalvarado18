@@ -7,7 +7,6 @@ Front End Developer and Microsoft Learn Student Ambassador passionate about tech
 - 💙 Personal project to encourage more kids to code: [Ñañas Coding](https://www.instagram.com/nanascoding)
 
 <br>
-<br>
 
 ## Languages
 
@@ -17,7 +16,6 @@ Front End Developer and Microsoft Learn Student Ambassador passionate about tech
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <br>
-<br>
 
 ## Frameworks, Platforms and Libraries
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
@@ -25,7 +23,6 @@ Front End Developer and Microsoft Learn Student Ambassador passionate about tech
 ![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<br>
 <br>
 
 ## Connect with me
