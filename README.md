@@ -2,9 +2,10 @@
 
 Front End Developer and Microsoft Learn Student Ambassador passionate about technology and projects.
 
-- 📚 Former president of: [UTA Software Club](https://www.youtube.com/@clubdesoftwareuta3201)
+- 📚 Former president and co-founder of: [UTA Software Club](https://www.youtube.com/@clubdesoftwareuta3201)
     - We taught the foudational principles of Python and Java to enthusiastic learners. 
-- 🎥 Live Workshops and Talks: [UTA Microsoft Community](https://www.youtube.com/@utamicrosoftcommunity4354)
+- 🎥 Former leader and co-founder of: [UTA Microsoft Community](https://www.youtube.com/@utamicrosoftcommunity4354)
+    - We gave live Workshops and Talks.
 - 💙 Personal project to encourage more kids to code: [Ñañas Coding](https://www.instagram.com/nanascoding)
 
 <br>
