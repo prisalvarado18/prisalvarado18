@@ -29,7 +29,7 @@ Front End Developer and Microsoft Learn Student Ambassador passionate about tech
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/priscila-alvarado-front-end-developer/">
+<a href="https://www.linkedin.com/in/priscila-alvarado-front-end-developer/" target="_blank">
     <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
