@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Front End Developer and Microsoft Learn Student Ambassador passionate about technology and projects.
+Web Developer and Microsoft Learn Student Ambassador passionate about technology and projects.
 
 - 📚 Former president and co-founder of: [UTA Software Club](https://www.youtube.com/@clubdesoftwareuta3201)
     - We taught the foudational principles of Python and Java to enthusiastic learners. 
